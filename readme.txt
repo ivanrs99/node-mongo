@@ -8,5 +8,9 @@ npm i express express-handlebars express-session method-override mongoose passpo
 -passport y passport-local (para autenticar usuario)
 -bcryptjs (cifrar passwords)
 -connect-flash (mensajes en pantalla como success o error, ventanita de color)
+-connect-mongo
+-npm i @handlebars/allow-prototype-access
+
+
 
 npm i nodemon -D
